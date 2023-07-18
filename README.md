@@ -11,4 +11,4 @@
 
 ## Preview
 
-![](images/Screenshot.png)
+![](screenshot.jpg)
